@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/kurtroyhaye/Azure-Sentinel-SIEM-Project)
+- <b>SIEM Project</b>
+  - [Azure Sentinel Tutorial MAP](https://github.com/kurtroyhaye/Azure-Sentinel-SIEM-Project)
 
 
 <h2>📺 Popular YouTube Videos</h2>
