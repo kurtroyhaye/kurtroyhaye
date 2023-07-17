@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SIEM Project</b>
-  - [Azure Sentinel Tutorial MAP](https://github.com/kurtroyhaye/Azure-Sentinel-SIEM-Project)
+  - [Azure Sentinel MAP](https://github.com/kurtroyhaye/Azure-Sentinel-SIEM-Project)
 
 
 <h2>📺 Popular YouTube Videos</h2>
