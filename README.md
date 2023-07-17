@@ -1,9 +1,9 @@
 <h1>Hi, I'm Kurt! <br/><a href="https://www.linkedin.com/in/kurtroy-haye-15804159/">Cybersecurity Projects</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/kurtroyhaye/Azure-Sentinel-SIEM-Project)
 
 
 <h2>📺 Popular YouTube Videos</h2>
