@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kurt! <br/><a href="https://www.linkedin.com/in/kurtroy-haye-15804159/">Cybersecurity Projects</a></h1>
+<h1>Hi, I'm Kurt! <br/><a href="https://www.linkedin.com/in/kurtroy-haye-15804159/">Programming & Cybersecurity Projects</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
