@@ -23,7 +23,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]: linkedin.com/in/kurtroy-haye-15804159
+[linkedin]: [linkedin.com/in/kurtroy-haye-15804159](https://www.linkedin.com/in/kurtroy-haye-15804159/)
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
