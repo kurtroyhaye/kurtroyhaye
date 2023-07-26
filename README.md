@@ -13,7 +13,7 @@
 <h2>👨‍💻 Programming Projects</h2>
 
 - [Keylogger (Python)](https://github.com/kurtroyhaye/Keylogger)
-- [Customer Log Exporter (PowerShell)](https://github.com/kurtroyhaye/Custom-Security-Log-Exporter)
+- [Custom Log Exporter (PowerShell)](https://github.com/kurtroyhaye/Custom-Security-Log-Exporter)
 - [Cryptography Encryption/Decryption software (C++)](https://github.com/kurtroyhaye/Cryptography-Project)
 
 <h2> 🤳 Connect with me:</h2>
